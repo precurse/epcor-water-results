@@ -1,4 +1,4 @@
-# Results for Sun Dec 25 10:00:01 MST 2022
+# Results for Mon Dec 26 10:00:01 MST 2022
 # ELS
 ```
 Using data for october-2022
@@ -8,8 +8,8 @@ Magnesium (Mg): 13.5
 Sulphate (SO4): 54.5
 Chloride (Cl): 4.81
 Sodium (Na): 6.42
-Bicarbonate (HCO3): 162.26
-Alkalinity (CaCO3): 133
+Bicarbonate (HCO3): 168.36
+Alkalinity (CaCO3): 138
 ```
 # Rossdale
 ```
@@ -20,6 +20,6 @@ Magnesium (Mg): 13.5
 Sulphate (SO4): 54.5
 Chloride (Cl): 4.81
 Sodium (Na): 6.42
-Bicarbonate (HCO3): 154.94
-Alkalinity (CaCO3): 127
+Bicarbonate (HCO3): 156.16
+Alkalinity (CaCO3): 128
 ```
