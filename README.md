@@ -1,25 +1,25 @@
-# Results for Mon Dec 26 10:00:01 MST 2022
+# Results for Wed Dec 28 20:20:36 MST 2022
 # ELS
 ```
-Using data for october-2022
+Using data for november-2022
 pH: 7.9
-Calcium (Ca): 42.0
-Magnesium (Mg): 13.5
-Sulphate (SO4): 54.5
-Chloride (Cl): 4.81
-Sodium (Na): 6.42
-Bicarbonate (HCO3): 168.36
-Alkalinity (CaCO3): 138
+Calcium (Ca): 43.6
+Magnesium (Mg): 14.75
+Sulphate (SO4): 53.5
+Chloride (Cl): 4.94
+Sodium (Na): 6.63
+Bicarbonate (HCO3): 180.56
+Alkalinity (CaCO3): 148
 ```
 # Rossdale
 ```
-Using data for october-2022
+Using data for november-2022
 pH: 8.0
-Calcium (Ca): 42.0
-Magnesium (Mg): 13.5
-Sulphate (SO4): 54.5
-Chloride (Cl): 4.81
-Sodium (Na): 6.42
-Bicarbonate (HCO3): 156.16
-Alkalinity (CaCO3): 128
+Calcium (Ca): 43.6
+Magnesium (Mg): 14.75
+Sulphate (SO4): 53.5
+Chloride (Cl): 4.94
+Sodium (Na): 6.63
+Bicarbonate (HCO3): 163.48
+Alkalinity (CaCO3): 134
 ```
