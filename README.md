@@ -1,7 +1,7 @@
-# Results for Mon Feb 13 10:00:01 MST 2023
+# Results for Tue Feb 14 10:00:01 MST 2023
 # ELS
 ```
-Daily data date: FEB-12
+Daily data date: FEB-13
 Monthly data date: december-2022
 pH: 8.0
 Calcium (Ca): 46.400000000000006
@@ -14,9 +14,9 @@ Alkalinity (CaCO3): 128
 ```
 # Rossdale
 ```
-Daily data date: FEB-12
+Daily data date: FEB-13
 Monthly data date: december-2022
-pH: 8.0
+pH: 8.1
 Calcium (Ca): 46.400000000000006
 Magnesium (Mg): 15.0
 Sulphate (SO4): 56.9
