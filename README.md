@@ -1,7 +1,7 @@
-# Results for Wed Apr 19 10:00:01 MDT 2023
+# Results for Thu Apr 20 10:00:01 MDT 2023
 # ELS
 ```
-Daily data from: APR-18
+Daily data from: APR-19
 Monthly data from: february-2023
 pH: 7.8
 Calcium (Ca): 46.5
@@ -9,12 +9,12 @@ Magnesium (Mg): 15.25
 Sulphate (SO4): 60.2
 Chloride (Cl): 5.96
 Sodium (Na): 8.34
-Bicarbonate (HCO3): 123.22
-Alkalinity (CaCO3): 101
+Bicarbonate (HCO3): 122
+Alkalinity (CaCO3): 100
 ```
 # Rossdale
 ```
-Daily data from: APR-18
+Daily data from: APR-19
 Monthly data from: february-2023
 pH: 7.8
 Calcium (Ca): 46.5
@@ -22,6 +22,6 @@ Magnesium (Mg): 15.25
 Sulphate (SO4): 60.2
 Chloride (Cl): 5.96
 Sodium (Na): 8.34
-Bicarbonate (HCO3): 120.78
-Alkalinity (CaCO3): 99
+Bicarbonate (HCO3): 122
+Alkalinity (CaCO3): 100
 ```
