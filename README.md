@@ -1,9 +1,9 @@
-# Results for Sun Jun 25 10:00:01 MDT 2023
+# Results for Mon Jun 26 10:00:01 MDT 2023
 # ELS
 ```
-Daily data from: JUN-24
+Daily data from: JUN-25
 Monthly data from: april-2023
-pH: 7.7
+pH: 7.8
 Calcium (Ca): 41.3
 Magnesium (Mg): 13.75
 Sulphate (SO4): 62.1
@@ -14,7 +14,7 @@ Alkalinity (CaCO3): 102
 ```
 # Rossdale
 ```
-Daily data from: JUN-24
+Daily data from: JUN-25
 Monthly data from: april-2023
 pH: 7.8
 Calcium (Ca): 41.3
