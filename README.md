@@ -1,7 +1,7 @@
-# Results for Sat Jul 29 10:00:01 MDT 2023
+# Results for Sun Jul 30 10:00:01 MDT 2023
 # ELS
 ```
-Daily data from: JUL-28
+Daily data from: JUL-29
 Monthly data from: may-2023
 pH: 7.9
 Calcium (Ca): 45.3
@@ -14,7 +14,7 @@ Alkalinity (CaCO3): 114
 ```
 # Rossdale
 ```
-Daily data from: JUL-28
+Daily data from: JUL-29
 Monthly data from: may-2023
 pH: 7.8
 Calcium (Ca): 45.3
