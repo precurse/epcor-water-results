@@ -1,7 +1,7 @@
-# Results for Sat Nov 11 15:11:59 UTC 2023
+# Results for Sun Nov 12 15:11:58 UTC 2023
 # ELS
 ```
-Daily data from: NOV-10
+Daily data from: NOV-11
 Monthly data from: september-2023
 pH: 8.1
 Calcium (Ca): 44.0
@@ -14,7 +14,7 @@ Alkalinity (CaCO3): 119
 ```
 # Rossdale
 ```
-Daily data from: NOV-10
+Daily data from: NOV-11
 Monthly data from: september-2023
 pH: 8.1
 Calcium (Ca): 44.0
