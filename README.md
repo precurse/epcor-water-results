@@ -1,27 +1,27 @@
-# Results for Thu Dec  7 15:14:18 UTC 2023
+# Results for Fri Dec  8 15:14:00 UTC 2023
 # ELS
 ```
-Daily data from: DEC-06
+Daily data from: DEC-07
 Monthly data from: october-2023
 pH: 8.1
 Calcium (Ca): 44.0
 Magnesium (Mg): 14.5
 Sodium (Na): 9.74
-Bicarbonate (HCO3): 148.84
+Bicarbonate (HCO3): 143.96
 Sulphate (SO4): 61.1
 Chloride (Cl): 6.31
-Alkalinity (CaCO3): 122
+Alkalinity (CaCO3): 118
 ```
 # Rossdale
 ```
-Daily data from: DEC-06
+Daily data from: DEC-07
 Monthly data from: october-2023
 pH: 8.0
 Calcium (Ca): 44.0
 Magnesium (Mg): 14.5
 Sodium (Na): 9.74
-Bicarbonate (HCO3): 157.38
+Bicarbonate (HCO3): 151.28
 Sulphate (SO4): 61.1
 Chloride (Cl): 6.31
-Alkalinity (CaCO3): 129
+Alkalinity (CaCO3): 124
 ```
