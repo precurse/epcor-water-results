@@ -1,20 +1,20 @@
-# Results for Mon Jan  1 15:13:17 UTC 2024
+# Results for Tue Jan  2 15:13:59 UTC 2024
 # ELS
 ```
-Daily data from: DEC-31
+Daily data from: JAN-01
 Monthly data from: november-2023
 pH: 8.2
 Calcium (Ca): 44.0
 Magnesium (Mg): 14.25
 Sodium (Na): 7.64
-Bicarbonate (HCO3): 153.72
+Bicarbonate (HCO3): 147.62
 Sulphate (SO4): 55.6
 Chloride (Cl): 5.76
-Alkalinity (CaCO3): 126
+Alkalinity (CaCO3): 121
 ```
 # Rossdale
 ```
-Daily data from: DEC-31
+Daily data from: JAN-01
 Monthly data from: november-2023
 pH: 8.0
 Calcium (Ca): 44.0
