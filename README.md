@@ -1,7 +1,7 @@
-# Results for Sat Feb 24 15:11:37 UTC 2024
+# Results for Sun Feb 25 15:11:41 UTC 2024
 # ELS
 ```
-Daily data from: FEB-23
+Daily data from: FEB-24
 Monthly data from: december-2023
 pH: 7.7
 Calcium (Ca): 46.0
@@ -14,7 +14,7 @@ Alkalinity (CaCO3): 127
 ```
 # Rossdale
 ```
-Daily data from: FEB-23
+Daily data from: FEB-24
 Monthly data from: december-2023
 pH: 7.8
 Calcium (Ca): 46.0
