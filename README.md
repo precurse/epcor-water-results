@@ -1,7 +1,7 @@
-# Results for Thu Apr 18 15:13:44 UTC 2024
+# Results for Fri Apr 19 15:13:40 UTC 2024
 # ELS
 ```
-Daily data from: APR-17
+Daily data from: APR-18
 Monthly data from: february-2024
 pH: 7.8
 Calcium (Ca): 47.3
@@ -14,9 +14,9 @@ Alkalinity (CaCO3): 98
 ```
 # Rossdale
 ```
-Daily data from: APR-17
+Daily data from: APR-18
 Monthly data from: february-2024
-pH: 7.9
+pH: 7.8
 Calcium (Ca): 47.3
 Magnesium (Mg): 16.25
 Sodium (Na): 10.91
