@@ -1,27 +1,27 @@
-# Results for Tue Sep 10 15:22:19 UTC 2024
+# Results for Wed Sep 11 15:23:28 UTC 2024
 # ELS
 ```
-Daily data from: SEP-09
+Daily data from: SEP-10
 Monthly data from: july-2024
 pH: 7.6
 Calcium (Ca): 48.0
 Magnesium (Mg): 15.5
 Sodium (Na): 14.30
-Bicarbonate (HCO3): 143.96
+Bicarbonate (HCO3): 142.74
 Sulphate (SO4): 75.3
 Chloride (Cl): 6.55
-Alkalinity (CaCO3): 118
+Alkalinity (CaCO3): 117
 ```
 # Rossdale
 ```
-Daily data from: SEP-09
+Daily data from: SEP-10
 Monthly data from: july-2024
 pH: 7.8
 Calcium (Ca): 48.0
 Magnesium (Mg): 15.5
 Sodium (Na): 14.30
-Bicarbonate (HCO3): 141.52
+Bicarbonate (HCO3): 140.3
 Sulphate (SO4): 75.3
 Chloride (Cl): 6.55
-Alkalinity (CaCO3): 116
+Alkalinity (CaCO3): 115
 ```
