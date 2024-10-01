@@ -1,7 +1,7 @@
-# Results for Mon Sep 30 15:24:20 UTC 2024
+# Results for Tue Oct  1 15:23:54 UTC 2024
 # ELS
 ```
-Daily data from: SEP-29
+Daily data from: SEP-30
 Monthly data from: 2024-07
 pH: 7.6
 Calcium (Ca): 48.0
@@ -14,7 +14,7 @@ Alkalinity (CaCO3): 122
 ```
 # Rossdale
 ```
-Daily data from: SEP-29
+Daily data from: SEP-30
 Monthly data from: 2024-07
 pH: 7.9
 Calcium (Ca): 48.0
