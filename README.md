@@ -1,20 +1,20 @@
-# Results for Thu Oct 31 15:24:21 UTC 2024
+# Results for Fri Nov  1 15:23:45 UTC 2024
 # ELS
 ```
-Daily data from: OCT-30
+Daily data from: OCT-31
 Monthly data from: 2024-09
 pH: 7.9
 Calcium (Ca): 46.9
 Magnesium (Mg): 15.0
 Sodium (Na): 8.43
-Bicarbonate (HCO3): 141.52
+Bicarbonate (HCO3): 146.4
 Sulphate (SO4): 73.5
 Chloride (Cl): 6.44
-Alkalinity (CaCO3): 116
+Alkalinity (CaCO3): 120
 ```
 # Rossdale
 ```
-Daily data from: OCT-30
+Daily data from: OCT-31
 Monthly data from: 2024-09
 pH: 8.1
 Calcium (Ca): 46.9
