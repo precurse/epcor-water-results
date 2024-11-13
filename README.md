@@ -1,9 +1,22 @@
-# Results for Tue Nov 12 15:22:18 UTC 2024
+# Results for Wed Nov 13 15:23:53 UTC 2024
 # ELS
 ```
-Daily data from: NOV-11
+Daily data from: NOV-12
 Monthly data from: 2024-09
 pH: 7.9
+Calcium (Ca): 46.9
+Magnesium (Mg): 15.0
+Sodium (Na): 8.43
+Bicarbonate (HCO3): 151.28
+Sulphate (SO4): 73.5
+Chloride (Cl): 6.44
+Alkalinity (CaCO3): 124
+```
+# Rossdale
+```
+Daily data from: NOV-12
+Monthly data from: 2024-09
+pH: 8.1
 Calcium (Ca): 46.9
 Magnesium (Mg): 15.0
 Sodium (Na): 8.43
@@ -11,17 +24,4 @@ Bicarbonate (HCO3): 148.84
 Sulphate (SO4): 73.5
 Chloride (Cl): 6.44
 Alkalinity (CaCO3): 122
-```
-# Rossdale
-```
-Daily data from: NOV-11
-Monthly data from: 2024-09
-pH: 8.1
-Calcium (Ca): 46.9
-Magnesium (Mg): 15.0
-Sodium (Na): 8.43
-Bicarbonate (HCO3): 147.62
-Sulphate (SO4): 73.5
-Chloride (Cl): 6.44
-Alkalinity (CaCO3): 121
 ```
