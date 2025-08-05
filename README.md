@@ -1,7 +1,7 @@
-# Results for Mon Aug  4 15:31:31 UTC 2025
+# Results for Tue Aug  5 15:32:21 UTC 2025
 # ELS
 ```
-Daily data from: AUG-03
+Daily data from: AUG-04
 Monthly data from: 2025-06
 pH: 7.8
 Calcium (Ca): 46.9
@@ -14,7 +14,7 @@ Alkalinity (CaCO3): 115
 ```
 # Rossdale
 ```
-Daily data from: AUG-03
+Daily data from: AUG-04
 Monthly data from: 2025-06
 pH: 7.8
 Calcium (Ca): 46.9
