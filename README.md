@@ -1,22 +1,22 @@
-# Results for Fri Sep  5 15:24:25 UTC 2025
+# Results for Sat Sep  6 15:20:15 UTC 2025
 # ELS
 ```
-Daily data from: SEP-04
+Daily data from: SEP-05
 Monthly data from: 2025-06
-pH: 7.7
+pH: 7.8
 Calcium (Ca): 46.9
 Magnesium (Mg): 14.975
 Sodium (Na): 15.6
-Bicarbonate (HCO3): 136.64
+Bicarbonate (HCO3): 135.42
 Sulphate (SO4): 80.6
 Chloride (Cl): 7.0
-Alkalinity (CaCO3): 112
+Alkalinity (CaCO3): 111
 ```
 # Rossdale
 ```
-Daily data from: SEP-04
+Daily data from: SEP-05
 Monthly data from: 2025-06
-pH: 7.7
+pH: 7.6
 Calcium (Ca): 46.9
 Magnesium (Mg): 14.975
 Sodium (Na): 15.6
