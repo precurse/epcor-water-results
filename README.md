@@ -1,9 +1,9 @@
-# Results for Wed Oct  8 15:26:21 UTC 2025
+# Results for Thu Oct  9 15:35:29 UTC 2025
 # ELS
 ```
-Daily data from: OCT-07
+Daily data from: OCT-08
 Monthly data from: 2025-06
-pH: 7.7
+pH: 7.8
 Calcium (Ca): 46.9
 Magnesium (Mg): 14.975
 Sodium (Na): 15.6
@@ -14,7 +14,7 @@ Alkalinity (CaCO3): 117
 ```
 # Rossdale
 ```
-Daily data from: OCT-07
+Daily data from: OCT-08
 Monthly data from: 2025-06
 pH: 7.7
 Calcium (Ca): 46.9
