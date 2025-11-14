@@ -1,7 +1,7 @@
-# Results for Thu Nov 13 15:27:53 UTC 2025
+# Results for Fri Nov 14 15:24:07 UTC 2025
 # ELS
 ```
-Daily data from: NOV-12
+Daily data from: NOV-13
 Monthly data from: 2025-08
 pH: 8.1
 Calcium (Ca): 45.2
@@ -14,7 +14,7 @@ Alkalinity (CaCO3): 120
 ```
 # Rossdale
 ```
-Daily data from: NOV-12
+Daily data from: NOV-13
 Monthly data from: 2025-08
 pH: 8.1
 Calcium (Ca): 45.2
