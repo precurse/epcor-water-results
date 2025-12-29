@@ -1,27 +1,27 @@
-# Results for Sun Dec 28 15:26:10 UTC 2025
+# Results for Mon Dec 29 15:30:27 UTC 2025
 # ELS
 ```
-Daily data from: DEC-27
+Daily data from: DEC-28
 Monthly data from: 2025-11
 pH: 8.0
 Calcium (Ca): 44.9
 Magnesium (Mg): 14.95
 Sodium (Na): 6.5
-Bicarbonate (HCO3): 170.8
+Bicarbonate (HCO3): 168.36
 Sulphate (SO4): 58.3
 Chloride (Cl): 5.4
-Alkalinity (CaCO3): 140
+Alkalinity (CaCO3): 138
 ```
 # Rossdale
 ```
-Daily data from: DEC-27
+Daily data from: DEC-28
 Monthly data from: 2025-11
 pH: 7.8
 Calcium (Ca): 44.9
 Magnesium (Mg): 14.95
 Sodium (Na): 6.5
-Bicarbonate (HCO3): 164.7
+Bicarbonate (HCO3): 168.36
 Sulphate (SO4): 58.3
 Chloride (Cl): 5.4
-Alkalinity (CaCO3): 135
+Alkalinity (CaCO3): 138
 ```
