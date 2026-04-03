@@ -1,22 +1,22 @@
-# Results for Thu Apr  2 15:54:23 UTC 2026
+# Results for Fri Apr  3 15:34:45 UTC 2026
 # ELS
 ```
-Daily data from: APR-01
+Daily data from: APR-02
 Monthly data from: 2026-02
-pH: 7.9
+pH: 7.8
 Calcium (Ca): 49.8
 Magnesium (Mg): 15.8
 Sodium (Na): 8.9
-Bicarbonate (HCO3): 151.28
+Bicarbonate (HCO3): 152.5
 Sulphate (SO4): 67.9
 Chloride (Cl): 6.7
-Alkalinity (CaCO3): 124
+Alkalinity (CaCO3): 125
 ```
 # Rossdale
 ```
-Daily data from: APR-01
+Daily data from: APR-02
 Monthly data from: 2026-02
-pH: 8.0
+pH: 7.6
 Calcium (Ca): 49.8
 Magnesium (Mg): 15.8
 Sodium (Na): 8.9
