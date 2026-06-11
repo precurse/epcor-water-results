@@ -1,7 +1,7 @@
-# Results for Wed Jun 10 17:53:34 UTC 2026
+# Results for Thu Jun 11 18:09:36 UTC 2026
 # ELS
 ```
-Daily data from: JUN-09
+Daily data from: JUN-10
 Monthly data from: 2026-04
 pH: 8.0
 Calcium (Ca): 42.9
@@ -14,7 +14,7 @@ Alkalinity (CaCO3): 113
 ```
 # Rossdale
 ```
-Daily data from: JUN-09
+Daily data from: JUN-10
 Monthly data from: 2026-04
 pH: 7.8
 Calcium (Ca): 42.9
