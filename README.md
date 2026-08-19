@@ -1,27 +1,27 @@
-# Results for Tue Aug 18 15:23:23 UTC 2026
+# Results for Wed Aug 19 15:23:24 UTC 2026
 # ELS
 ```
-Daily data from: AUG-17
+Daily data from: AUG-18
 Monthly data from: 2026-06
 pH: 7.7
 Calcium (Ca): 45.5
 Magnesium (Mg): 13.625
 Sodium (Na): 13.5
-Bicarbonate (HCO3): 146.4
+Bicarbonate (HCO3): 148.84
 Sulphate (SO4): 98.7
 Chloride (Cl): 8.4
-Alkalinity (CaCO3): 120
+Alkalinity (CaCO3): 122
 ```
 # Rossdale
 ```
-Daily data from: AUG-17
+Daily data from: AUG-18
 Monthly data from: 2026-06
 pH: 7.8
 Calcium (Ca): 45.5
 Magnesium (Mg): 13.625
 Sodium (Na): 13.5
-Bicarbonate (HCO3): 143.96
+Bicarbonate (HCO3): 141.52
 Sulphate (SO4): 98.7
 Chloride (Cl): 8.4
-Alkalinity (CaCO3): 118
+Alkalinity (CaCO3): 116
 ```
