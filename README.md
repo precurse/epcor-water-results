@@ -1,7 +1,7 @@
-# Results for Sun Nov  1 19:29:04 UTC 2026
+# Results for Mon Nov  2 23:04:29 UTC 2026
 # ELS
 ```
-Daily data from: OCT-31
+Daily data from: NOV-01
 Monthly data from: 2026-08
 pH: 7.8
 Calcium (Ca): 45.4
@@ -14,7 +14,7 @@ Alkalinity (CaCO3): 120
 ```
 # Rossdale
 ```
-Daily data from: OCT-31
+Daily data from: NOV-01
 Monthly data from: 2026-08
 pH: 7.9
 Calcium (Ca): 45.4
