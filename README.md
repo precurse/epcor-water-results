@@ -1,6 +1,8 @@
-# Results for Wed Nov 18 13:52:28 UTC 2026
+# Results for Wed Nov 18 13:55:35 UTC 2026
 # ELS
 ```
+Daily data from: NOV-17
+Monthly data from: 2026-09
 pH: 7.8
 Calcium (Ca): 45.8
 Magnesium (Mg): 15.225
@@ -12,6 +14,8 @@ Alkalinity (CaCO3): 122
 ```
 # Rossdale
 ```
+Daily data from: NOV-17
+Monthly data from: 2026-09
 pH: 7.9
 Calcium (Ca): 45.8
 Magnesium (Mg): 15.225
